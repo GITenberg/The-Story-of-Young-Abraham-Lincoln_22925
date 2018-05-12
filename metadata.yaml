@@ -1,0 +1,30 @@
+_repo: The-Story-of-Young-Abraham-Lincoln_22925
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 22925-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Whipple, Wayne
+    birthdate: 1856
+    deathdate: 1942
+    gutenberg_agent_id: '4113'
+    url: http://www.gutenberg.org/2009/agents/4113
+description: ''
+gutenberg_bookshelf:
+- Children's Biography
+- US Civil War
+- Children's Instructional Books
+gutenberg_issued: '2007-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Childhood and youth'
+title: The Story of Young Abraham Lincoln
+url: http://www.gutenberg.org/ebooks/22925
